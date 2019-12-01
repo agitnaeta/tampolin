@@ -11,3 +11,4 @@ Aplikasi Tampol Online
 2) kami tidak memiliki fitur berbagi untuk hasil "Aktivitas", termasuk (jumlah slap &  gambar orang, atau subject yang dituju)
 3) Kami tidak mendukung unsur kekerasan yang bersifat melawan hukum dan mencela negara dan atau agama
 4) User yang melakuan aktivitas share dari hasil  tangkapan layar / memotret layar merupakan diluar kemampuan sistem & diluar tanggung jawab pembuat karena sudah menyalahi aturan no 3
+5) Pembajakan kode dengan atau tanpa tidak sengaja, yang menimbulkan kegaduhan akibat pengkoleksian data orang secara ilegal akan dilapokan melalui jalur hukum yang berlaku di Republik Indonesia
